@@ -1,5 +1,5 @@
 # New-York-City-Skills-Gap
 
-SQL file is where I created the relational database and implemented a few queries.
+SQL file is where efficient relational database was designed and where a few queries were implemented.
 
 R file is where I manipulated the data after linking R with MySQL.
